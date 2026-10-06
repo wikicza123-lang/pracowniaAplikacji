@@ -7,6 +7,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         Random r = new Random();
 
+                                                                // TABLICE
         // ZADANIE 1
         System.out.println("Zadanie 1");
         int[] liczby1 = {1, 2, 3, 4, 5, 6};
